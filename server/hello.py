@@ -10,3 +10,5 @@ def hello():
 <p>Im running on a raspberry pi hanging off of Monas desk!</p> 
 <a href="https://photos.app.goo.gl/1TqwaGiVPQgjFjf4A"'>Click Here</a>
 '''
+
+app.run()
