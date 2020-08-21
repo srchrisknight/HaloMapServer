@@ -11,4 +11,4 @@ def hello():
 <a href="https://photos.app.goo.gl/1TqwaGiVPQgjFjf4A"'>Click Here</a>
 '''
 
-app.run()
+app.run(host = 0,0,0,0, port = 8080)
